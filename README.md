@@ -10,7 +10,7 @@
     而python环境中要至少包含：
     pytorh （CPU版本）  【深度学习框架】
     gym                 【强化学习练习场】
-    安装教程：http://124.70.59.232/index.php/archives/41/
+    安装教程：http://124.70.59.232/index.php/archives/41/  【上面是linux 安装，新手推荐windows】
 
 ## EXCLUDED
 如果你是刚刚接触编程或者python，建议在做的时候不要太着急。
